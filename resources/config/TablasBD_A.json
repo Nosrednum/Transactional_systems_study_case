@@ -1,0 +1,25 @@
+{
+	"title": "Nombres de las tablas de Superandes Uniandes para la aplicación A",
+	"unidadPersistencia": "Superandes",
+	"tablas":
+	[
+		"superandes_sequence",
+		 "S_ALMACENAMIENTO",
+		 "S_ALMACENAMIENTO_PRODUCTOS",
+		 "S_CATEGORIA",
+		 "S_CLIENTE",
+		 "S_FACTURA",
+		 "S_PEDIDO",
+		 "S_PRODUCTO",
+		 "S_PRODUCTO_CATEGORIA",
+		 "S_PRODUCTO_SUCURSAL",
+		 "S_PRODUCTOPROVEEDOR",
+		 "S_PRODUCTOS_PEDIDOS",
+		 "S_PRODUCTOSFACTURA",
+		 "S_PROMOCION",
+		 "S_PROMOCIONES",
+		 "S_PROVEEDOR",
+		 "S_PROVEEN",
+		 "S_SUCURSAL"
+	]
+}

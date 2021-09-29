@@ -1,0 +1,68 @@
+18:05:19,088 (main) INFO  [main.java.uniandes.isis2304.superandes.interfazApp.InterfazSuperandesApp] - Se encontró un archivo de configuración válido: Interfaz
+18:05:19,088 (main) INFO  [main.java.uniandes.isis2304.superandes.interfazApp.InterfazSuperandesApp] - Se aplica configuración indicada en el archivo de configuración
+18:05:19,110 (main) INFO  [main.java.uniandes.isis2304.superandes.interfazApp.InterfazSuperandesApp] - Se encontró un archivo de configuración válido: Tablas BD
+18:05:24,815 (main) INFO  [main.java.uniandes.isis2304.superandes.negocio.SuperAndes] - Obteniendo elemento de tipo: Sucursal
+18:05:24,842 (main) INFO  [main.java.uniandes.isis2304.superandes.persistencia.PersistenciaSuperandes] - Obteniendo la clase: Sucursal ->
+18:05:24,842 (main) INFO  [main.java.uniandes.isis2304.superandes.persistencia.PersistenciaSuperandes] - 		en getOfField >>>>> Se llama al metodo:		-getElement
+18:05:24,945 (main) INFO  [main.java.uniandes.isis2304.superandes.negocio.SuperAndes] - Obtenido: class main.java.uniandes.isis2304.superandes.negocio.Sucursal
+18:05:40,054 (AWT-EventQueue-0) INFO  [main.java.uniandes.isis2304.superandes.interfazApp.InterfazSuperandesApp] - 		>>>>>>>>>>>>Se llama al metodo:		-mostrarModeloConceptual
+18:06:16,964 (main) INFO  [main.java.uniandes.isis2304.superandes.interfazApp.InterfazSuperandesApp] - Se encontró un archivo de configuración válido: Interfaz
+18:06:16,964 (main) INFO  [main.java.uniandes.isis2304.superandes.interfazApp.InterfazSuperandesApp] - Se aplica configuración indicada en el archivo de configuración
+18:06:16,984 (main) INFO  [main.java.uniandes.isis2304.superandes.interfazApp.InterfazSuperandesApp] - Se encontró un archivo de configuración válido: Tablas BD
+18:06:21,123 (main) INFO  [main.java.uniandes.isis2304.superandes.negocio.SuperAndes] - Obteniendo elemento de tipo: Sucursal
+18:06:21,157 (main) INFO  [main.java.uniandes.isis2304.superandes.persistencia.PersistenciaSuperandes] - Obteniendo la clase: Sucursal ->
+18:06:21,157 (main) INFO  [main.java.uniandes.isis2304.superandes.persistencia.PersistenciaSuperandes] - 		en getOfField >>>>> Se llama al metodo:		-getElement
+18:06:21,268 (main) INFO  [main.java.uniandes.isis2304.superandes.negocio.SuperAndes] - Obtenido: class main.java.uniandes.isis2304.superandes.negocio.Sucursal
+18:06:29,216 (AWT-EventQueue-0) INFO  [main.java.uniandes.isis2304.superandes.interfazApp.InterfazSuperandesApp] - 		>>>>>>>>>>>>Se llama al metodo:		-mostrarModeloConceptual
+18:06:42,602 (AWT-EventQueue-0) INFO  [main.java.uniandes.isis2304.superandes.interfazApp.InterfazSuperandesApp] - 		>>>>>>>>>>>>Se llama al metodo:		-mostrarEsquemaBD
+18:06:49,255 (AWT-EventQueue-0) INFO  [main.java.uniandes.isis2304.superandes.interfazApp.InterfazSuperandesApp] - 		>>>>>>>>>>>>Se llama al metodo:		-mostrarScriptBD
+18:07:00,539 (AWT-EventQueue-0) INFO  [main.java.uniandes.isis2304.superandes.interfazApp.InterfazSuperandesApp] - 		>>>>>>>>>>>>Se llama al metodo:		-mostrarJavadoc
+18:07:18,793 (AWT-EventQueue-0) INFO  [main.java.uniandes.isis2304.superandes.interfazApp.InterfazSuperandesApp] - 		>>>>>>>>>>>>Se llama al metodo:		-acercaDe
+18:55:23,011 (main) INFO  [main.java.uniandes.isis2304.superandes.interfazApp.InterfazSuperandesApp] - Se encontró un archivo de configuración válido: Interfaz
+18:55:23,012 (main) INFO  [main.java.uniandes.isis2304.superandes.interfazApp.InterfazSuperandesApp] - Se aplica configuración indicada en el archivo de configuración
+18:55:23,037 (main) INFO  [main.java.uniandes.isis2304.superandes.interfazApp.InterfazSuperandesApp] - Se encontró un archivo de configuración válido: Tablas BD
+18:55:33,847 (main) INFO  [main.java.uniandes.isis2304.superandes.interfazApp.InterfazSuperandesApp] - Se encontró un archivo de configuración válido: Interfaz
+18:55:33,848 (main) INFO  [main.java.uniandes.isis2304.superandes.interfazApp.InterfazSuperandesApp] - Se aplica configuración indicada en el archivo de configuración
+18:55:33,866 (main) INFO  [main.java.uniandes.isis2304.superandes.interfazApp.InterfazSuperandesApp] - Se encontró un archivo de configuración válido: Tablas BD
+19:10:58,984 (main) INFO  [main.java.uniandes.isis2304.superandes.interfazApp.InterfazSuperandesApp] - Se encontró un archivo de configuración válido: Interfaz
+19:10:58,990 (main) INFO  [main.java.uniandes.isis2304.superandes.interfazApp.InterfazSuperandesApp] - Se aplica configuración indicada en el archivo de configuración
+19:10:59,021 (main) INFO  [main.java.uniandes.isis2304.superandes.interfazApp.InterfazSuperandesApp] - Se encontró un archivo de configuración válido: Tablas BD
+19:11:07,681 (main) INFO  [main.java.uniandes.isis2304.superandes.negocio.SuperAndes] - Obteniendo elemento de tipo: Sucursal
+19:11:07,748 (main) INFO  [main.java.uniandes.isis2304.superandes.persistencia.PersistenciaSuperandes] - Obteniendo la clase: Sucursal ->
+19:11:07,748 (main) INFO  [main.java.uniandes.isis2304.superandes.persistencia.PersistenciaSuperandes] - 		en getOfField >>>>> Se llama al metodo:		-getElement
+19:11:07,868 (main) INFO  [main.java.uniandes.isis2304.superandes.negocio.SuperAndes] - Obtenido: class main.java.uniandes.isis2304.superandes.negocio.Sucursal
+19:20:42,443 (main) INFO  [main.java.uniandes.isis2304.superandes.interfazApp.InterfazSuperandesApp] - Se encontró un archivo de configuración válido: Interfaz
+19:20:42,444 (main) INFO  [main.java.uniandes.isis2304.superandes.interfazApp.InterfazSuperandesApp] - Se aplica configuración indicada en el archivo de configuración
+19:20:42,466 (main) INFO  [main.java.uniandes.isis2304.superandes.interfazApp.InterfazSuperandesApp] - Se encontró un archivo de configuración válido: Tablas BD
+19:20:46,014 (main) INFO  [main.java.uniandes.isis2304.superandes.negocio.SuperAndes] - Obteniendo elemento de tipo: Sucursal
+19:20:46,042 (main) INFO  [main.java.uniandes.isis2304.superandes.persistencia.PersistenciaSuperandes] - Obteniendo la clase: Sucursal ->
+19:20:46,042 (main) INFO  [main.java.uniandes.isis2304.superandes.persistencia.PersistenciaSuperandes] - 		en getOfField >>>>> Se llama al metodo:		-getElement
+19:20:46,145 (main) INFO  [main.java.uniandes.isis2304.superandes.negocio.SuperAndes] - Obtenido: null
+19:20:46,146 (main) INFO  [main.java.uniandes.isis2304.superandes.negocio.SuperAndes] - Obteniendo elemento de tipo: Sucursal
+19:20:46,184 (main) INFO  [main.java.uniandes.isis2304.superandes.persistencia.PersistenciaSuperandes] - Obteniendo la clase: Sucursal ->
+19:20:46,184 (main) INFO  [main.java.uniandes.isis2304.superandes.persistencia.PersistenciaSuperandes] - 		en getOfField >>>>> Se llama al metodo:		-getElement
+19:20:46,204 (main) INFO  [main.java.uniandes.isis2304.superandes.negocio.SuperAndes] - Obtenido: null
+19:22:03,302 (main) INFO  [main.java.uniandes.isis2304.superandes.interfazApp.InterfazSuperandesApp] - Se encontró un archivo de configuración válido: Interfaz
+19:22:03,307 (main) INFO  [main.java.uniandes.isis2304.superandes.interfazApp.InterfazSuperandesApp] - Se aplica configuración indicada en el archivo de configuración
+19:22:03,335 (main) INFO  [main.java.uniandes.isis2304.superandes.interfazApp.InterfazSuperandesApp] - Se encontró un archivo de configuración válido: Tablas BD
+19:22:08,048 (main) INFO  [main.java.uniandes.isis2304.superandes.negocio.SuperAndes] - Obteniendo elemento de tipo: Sucursal
+19:22:08,077 (main) INFO  [main.java.uniandes.isis2304.superandes.persistencia.PersistenciaSuperandes] - Obteniendo la clase: Sucursal ->
+19:22:08,078 (main) INFO  [main.java.uniandes.isis2304.superandes.persistencia.PersistenciaSuperandes] - 		en getOfField >>>>> Se llama al metodo:		-getElement
+19:22:08,167 (main) INFO  [main.java.uniandes.isis2304.superandes.negocio.SuperAndes] - Obtenido: class main.java.uniandes.isis2304.superandes.negocio.Sucursal
+19:22:12,643 (AWT-EventQueue-0) INFO  [main.java.uniandes.isis2304.superandes.interfazApp.InterfazSuperandesApp] - 		>>>>>>>>>>>>Se llama al metodo:		-RFC7
+19:25:07,496 (main) INFO  [main.java.uniandes.isis2304.superandes.interfazApp.InterfazSuperandesApp] - Se encontró un archivo de configuración válido: Interfaz
+19:25:07,497 (main) INFO  [main.java.uniandes.isis2304.superandes.interfazApp.InterfazSuperandesApp] - Se aplica configuración indicada en el archivo de configuración
+19:25:07,515 (main) INFO  [main.java.uniandes.isis2304.superandes.interfazApp.InterfazSuperandesApp] - Se encontró un archivo de configuración válido: Tablas BD
+19:25:12,915 (main) INFO  [main.java.uniandes.isis2304.superandes.negocio.SuperAndes] - Obteniendo elemento de tipo: Sucursal
+19:25:12,947 (main) INFO  [main.java.uniandes.isis2304.superandes.persistencia.PersistenciaSuperandes] - Obteniendo la clase: Sucursal ->
+19:25:12,947 (main) INFO  [main.java.uniandes.isis2304.superandes.persistencia.PersistenciaSuperandes] - 		en getOfField >>>>> Se llama al metodo:		-getElement
+19:25:13,071 (main) INFO  [main.java.uniandes.isis2304.superandes.negocio.SuperAndes] - Obtenido: class main.java.uniandes.isis2304.superandes.negocio.Sucursal
+19:25:15,746 (AWT-EventQueue-0) INFO  [main.java.uniandes.isis2304.superandes.interfazApp.InterfazSuperandesApp] - 		>>>>>>>>>>>>Se llama al metodo:		-RFC7
+19:28:39,214 (main) INFO  [main.java.uniandes.isis2304.superandes.interfazApp.InterfazSuperandesApp] - Se encontró un archivo de configuración válido: Interfaz
+19:28:39,215 (main) INFO  [main.java.uniandes.isis2304.superandes.interfazApp.InterfazSuperandesApp] - Se aplica configuración indicada en el archivo de configuración
+19:28:39,263 (main) INFO  [main.java.uniandes.isis2304.superandes.interfazApp.InterfazSuperandesApp] - Se encontró un archivo de configuración válido: Tablas BD
+19:28:54,453 (main) INFO  [main.java.uniandes.isis2304.superandes.negocio.SuperAndes] - Obteniendo elemento de tipo: Sucursal
+19:28:54,480 (main) INFO  [main.java.uniandes.isis2304.superandes.persistencia.PersistenciaSuperandes] - Obteniendo la clase: Sucursal ->
+19:28:54,480 (main) INFO  [main.java.uniandes.isis2304.superandes.persistencia.PersistenciaSuperandes] - 		en getOfField >>>>> Se llama al metodo:		-getElement
+19:28:54,661 (main) INFO  [main.java.uniandes.isis2304.superandes.negocio.SuperAndes] - Obtenido: class main.java.uniandes.isis2304.superandes.negocio.Sucursal
+19:28:58,470 (AWT-EventQueue-0) INFO  [main.java.uniandes.isis2304.superandes.interfazApp.InterfazSuperandesApp] - 		>>>>>>>>>>>>Se llama al metodo:		-RFC8

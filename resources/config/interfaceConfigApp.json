@@ -1,0 +1,184 @@
+{
+	"title": "Aplicación transaccional de Superandes Uniandes",
+	"frameH": 600,
+	"frameW": 800,
+	"bannerPath": "./src/main/resources/config/logo.png",
+	"menuBar":
+	[
+		{ "menuTitle": "Carrito",
+		  "options":
+			[
+				{
+					"label": "Solicitar carrito",
+					"event": "solicitarCarrito"
+				},
+				{
+					"label": "Añadir producto",
+					"event": "aniadirProducto"
+				},
+				{
+					"label": "Devolver producto",
+					"event": "devolverProducto"
+				},
+				{
+					"label": "Registrar para pago",
+					"event": "pagarCarrito"
+				},
+				{
+					"label": "Abandonar carrito",
+					"event": "abandonarCarrito"
+				},
+				{
+					"label": "Abandonar carrito elegantemente",
+					"event": "abandonarCarritoBien"
+				},
+				{
+					"label": "Recolectar carritos",
+					"event": "recolectarCarritos"
+				},
+				{
+					"label": "Añadir nuevo carrito",
+					"event": "aniadirCarrito"
+				}
+			]
+		},
+		{ "menuTitle": "Promoción",
+		  "options":
+			[
+				{
+					"label": "Registrar Promocion",
+					"event": "adicionarPromocion"
+				},
+				{
+					"label": "Finalizar Promocion",
+					"event": "finalizarPromoPorDescripcion"
+				}
+			]
+		},
+		{ "menuTitle": "Pedido",
+		  "options":
+			[
+				{
+					"label": "Registrar",
+					"event": "registrarPedido"
+				}
+			]
+		},
+		{ "menuTitle": "Producto",
+		  "options":
+			[
+				{
+					"label": "Registrar Llegada",
+					"event": "registrarProducto"
+				},
+				{
+					"label": "Registrar Venta",
+					"event": "registrarFactura"
+				}
+			]
+		},
+		{ "menuTitle": "Consultas iteracion 1",
+		  "options":
+			[
+				{
+					"label": "Conslta RFC1",
+					"event": "RFC1"
+				},
+				{
+					"label": "Conslta RFC2",
+					"event": "RFC2"
+				},
+				{
+					"label": "Conslta RFC3",
+					"event": "RFC3"
+				},
+				{
+					"label": "Conslta RFC4",
+					"event": "RFC4"
+				},
+				{
+					"label": "Conslta RFC5",
+					"event": "RFC5"
+				},
+				{
+					"label": "Conslta RFC6",
+					"event": "RFC6"
+				}
+			]
+		},
+		{ "menuTitle": "Consultas iteracion 2",
+		  "options":
+			[
+				{
+					"label": "Conslta RFC7",
+					"event": "RFC7"
+				},
+				{
+					"label": "Conslta RFC8",
+					"event": "RFC8"
+				}
+			]
+		},
+		{ "menuTitle": "Mantenimiento",
+		  "options":
+			[
+				{
+					"label": "Mostrar log SuperAndes",
+					"event": "mostrarLogSuperandes"
+				},
+				{
+					"label": "Mostrar log datanucleus",
+					"event": "mostrarLogDatanuecleus"
+				},
+				{
+					"label": "Limpiar log de superandes",
+					"event": "limpiarLogSuperandes"
+				},
+				{
+					"label": "Limpiar log de datanucleus",
+					"event": "limpiarLogDatanucleus"
+				},
+				{
+					"label": "Limpiar Base de Datos",
+					"event": "limpiarBD"
+				}
+			]
+		},		
+		{ "menuTitle": "Documentación",
+		  "options":
+			[
+				{
+					"label": "Modelo conceptual",
+					"event": "mostrarModeloConceptual"
+				},
+				{
+					"label": "Esquema de la BD",
+					"event": "mostrarEsquemaBD"
+				},
+				{
+					"label": "Script creación de la BD",
+					"event": "mostrarScriptBD"
+				},
+				{
+					"label": "Javadoc SuperAndes",
+					"event": "mostrarJavadoc"
+				}
+			]
+		},		
+		{ "menuTitle": "Acerca de ...",
+		  "options":
+			[
+				{
+					"label": "Acerca de ...",
+					"event": "acercaDe"
+				},
+				{
+					"label": "PRUEBAS",
+					"event": "PRUEBA"
+				}
+			]
+		}		
+		
+	]
+}
+	

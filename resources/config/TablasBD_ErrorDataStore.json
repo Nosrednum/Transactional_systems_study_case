@@ -1,0 +1,25 @@
+{
+	"title": "Nombres de las tablas de Superandes Uniandes para pruebas de la aplicación cuando la base de datos no existe o está caida",
+	"unidadPersistencia": "SuperandesErrorDS",
+	"tablas":
+	[
+		"superandes_sequence",
+		 "X_ALMACENAMIENTO",
+		 "X_ALMACENAMIENTO_PRODUCTOS",
+		 "X_CATEGORIA",
+		 "X_CLIENTE",
+		 "X_FACTURA",
+		 "X_PEDIDO",
+		 "X_PRODUCTO",
+		 "X_PRODUCTO_CATEGORIA",
+		 "X_PRODUCTO_SUCURSAL",
+		 "X_PRODUCTOPROVEEDOR",
+		 "X_PRODUCTOX_PEDIDOS",
+		 "X_PRODUCTOSFACTURA",
+		 "X_PROMOCION",
+		 "X_PROMOCIONES",
+		 "X_PROVEEDOR",
+		 "X_PROVEEN",
+		 "X_SUCURSAL"
+	]
+}
